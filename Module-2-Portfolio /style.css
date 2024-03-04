@@ -1,0 +1,154 @@
+/* general styling  */
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fbfbfb;
+}
+/* header styling */
+header {
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #4ba5d2;
+  background-image: url(./img/Fullbackground.png);
+  color: #edb6b6;
+}
+
+header h1 {
+  display: inline-block;
+  font-size: 48px;
+}
+
+header nav {
+  padding-top: 15px;
+  margin-right: 20px;
+  float: right;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+header nav ul {
+  list-style-type: none;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+/* text styling */
+a {
+  color: #e8b8b8;
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+}
+/* hero/ work styling */
+hero {
+  height: 800px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-size: cover;
+  background-position: center;
+}
+/*styling for study guide */
+.float-left {
+  float: left;
+  margin-right: 20px;
+  height: auto;
+}
+#studyguide img {
+  width: 500px;
+  height: auto;
+}
+.float-right {
+  float: right;
+  margin-left: 20px;
+}
+
+/* about me section styling */
+.aboutme {
+  margin-right: 0%;
+  padding: 20px;
+  clear: both;
+  float: right;
+  height: 100%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #bbddef;
+  background-image: url(./img/Fullbackground.png);
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  color: #edb6b6;
+}
+
+.aboutme h2 {
+  margin-bottom: 10px;
+  text-align: center;
+  width: 30%;
+}
+
+.aboutme p {
+  width: auto;
+  padding-bottom: 15px;
+}
+
+.aboutme img {
+  display: block;
+  margin: 10px auto;
+  max-width: 150px;
+}
+/* contact styling */
+#contact-links {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+#contact {
+  border-style: groove;
+  align-items: normal;
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto;
+  width: 80%;
+  padding-top: 10px;
+  background-color: #bbddef;
+  color: #edb6b6;
+}
+
+/* work styling */
+.work {
+  margin-bottom: 20px;
+  padding: 40px;
+  height: 300px;
+  max-width: auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #bbddef;
+  /* background-image: url(./img/Fullbackground.png); */
+  color: #fbf9ef;
+}
+
+.work img {
+  max-height: 240px;
+}
+/* footer styling */
+.footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: #4ba5d2;
+}
+
+.footer h2 {
+  font-size: 20px;
+}
