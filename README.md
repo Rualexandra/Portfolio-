@@ -30,7 +30,8 @@ This is an example of what my portfoli's apperance and functionality should rese
 
 # Final result
 
-![Portfolio Screenshot](<./Assets/img/screenshot portfolio.png>)
+![Portfolio Screenshot](<./Assets/img/portfoli updated.pdf>)
 
 Interact with webpage to see working links and responsivness!
 Link to deployed application:
+https://rualexandra.github.io/Portfolio-/
