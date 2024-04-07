@@ -1,6 +1,6 @@
 # Portfolio-
 
-This is my official Portfolio! As a first time developer I will be showing off my new learned skills and will be updating this as I continue to learn and create. Follow me on my journey!
+Hello! my name is Alexandra Ruiz and this is my official Portfolio! I know it might not look luke mutch for now but I am extremely proud because just a couple weeks ago I barely had any idea of what coding even was. As a first time developer I will be showing off my new learned skills and will be updating this as I continue to learn and create. Follow me on my journey!
 
 # User Story
 
