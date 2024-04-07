@@ -30,6 +30,7 @@ This is an example of what my portfoli's apperance and functionality should rese
 
 # Final result
 
-![Portfolio Screenshot](<Module-2-Portfolio /img/screenshot portfolio.png>)
+![Portfolio Screenshot](<./Assets/img/screenshot portfolio.png>)
 
 Interact with webpage to see working links and responsivness!
+Link to deployed application:
